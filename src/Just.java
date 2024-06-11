@@ -43,3 +43,15 @@ public class Just {
     }
 }
 
+ // aaaa
+/**
+ *
+ * git add .
+ * git commit -m"message"
+ * git pull origin master
+ * git add .
+ * git commit -m"new message"
+ * git push origin master
+ *
+ *
+ */
