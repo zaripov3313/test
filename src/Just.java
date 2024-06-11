@@ -2,6 +2,10 @@ public class Just {
     private  String name;
     private  String surname;
 
+    public Just(){
+        System.out.println("bye bye");
+    }
+
     public Just(String name, String surname) {
         this.name = name;
         this.surname = surname;
