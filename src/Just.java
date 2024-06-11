@@ -3,7 +3,7 @@ public class Just {
     private  String surname;
 
     public Just(){
-        System.out.println("hello");
+        System.out.println("bye bye");
     }
 
     public Just(String name, String surname) {
