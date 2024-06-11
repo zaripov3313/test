@@ -6,6 +6,10 @@ public class Just {
         System.out.println("bye bye");
     }
 
+    public void test(){
+
+    }
+
     public Just(String name, String surname) {
         this.name = name;
         this.surname = surname;
