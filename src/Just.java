@@ -6,8 +6,11 @@ public class Just {
         System.out.println("bye bye");
     }
 
-    public void test(){
 
+    public void test() {
+    }
+    public boolean Check(){
+        return false;
     }
 
     public Just(String name, String surname) {
@@ -39,3 +42,15 @@ public class Just {
                 '}';
     }
 }
+
+/**
+ *
+ * git add .
+ * git commit -m"message"
+ * git pull origin master
+ * git add .
+ * git commit -m"new message"
+ * git push origin master
+ *
+ *
+ */
